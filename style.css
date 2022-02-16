@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    height: 64px;
+    align-items: center;
+}
+.col{
+    flex: 1;
+    background-color: cadetblue;
+    margin: 0px 16px;
+    padding: 16px;
+}
+.col-2{
+    flex:2;
+    background-color: cadetblue;
+    margin: 0px 16px;
+    padding: 16px;
+}
+.col-3{
+    flex:2;
+    background-color: cadetblue;
+    margin: 0px 16px;
+    padding: 16px;
+}
