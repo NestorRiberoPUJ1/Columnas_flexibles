@@ -4,22 +4,26 @@
     margin-top: 16px;
     height: 64px;
     align-items: center;
+    overflow: hidden;
 }
 .col{
     flex: 1;
     background-color: cadetblue;
     margin: 0px 16px;
     padding: 16px;
+    font-size: 1.5rem;
 }
 .col-2{
     flex:2;
     background-color: cadetblue;
     margin: 0px 16px;
     padding: 16px;
+    font-size: 1.5rem;
 }
 .col-3{
     flex:2;
     background-color: cadetblue;
     margin: 0px 16px;
     padding: 16px;
+    font-size: 1.5rem;
 }
